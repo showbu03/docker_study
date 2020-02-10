@@ -1,6 +1,8 @@
 Cahpter 1. CONTAINER TECHNOLOGY OVERVIEW
 ==========================================
 
+컨테이너는 제조사에서 만든 것을 모든 어플리케이션 운영
+
 docs.docker.com
 hub.docker.com
 
@@ -15,7 +17,8 @@ container
 		user
 		ipc
 
-
+Cahpter 2. INSTALLING DOCKER
+==========================================
 ubuntu
 Install Docker Engine - Community 
 1) Install using the repository
