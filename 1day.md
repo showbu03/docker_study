@@ -5,7 +5,7 @@ Cahpter 1. CONTAINER TECHNOLOGY OVERVIEW
 리소스 효율성을 위해 한 서버위에 여러 어플리케이션을 올려서 사용함
 
 가상화 환경
-H/W 가격, 리눅스 환경 안정성 향상
+> H/W 가격, 리눅스 환경 안정성 향상
 
 
 docs.docker.com
