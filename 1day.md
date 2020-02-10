@@ -1,7 +1,12 @@
 Cahpter 1. CONTAINER TECHNOLOGY OVERVIEW
 ==========================================
 
-컨테이너는 제조사에서 만든 것을 모든 어플리케이션 운영
+## 베어메탈 환경
+리소스 효율성을 위해 한 서버위에 여러 어플리케이션을 올려서 사용함
+ -
+## 가상화 환경
+H/W 가격 
+
 
 docs.docker.com
 hub.docker.com
