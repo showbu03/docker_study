@@ -40,8 +40,9 @@ Cahpter 1. CONTAINER TECHNOLOGY OVERVIEW
 컨테이너의 목적
 > **빠른 배포**
 
-컨테이너의 역사
-	chroot : runc
+컨테이너관련 기술 발전
+	1982년 chroot : runc
+	> FTP로 
 	cgroup : resource limit		
 	namespace : isolate
 		uts
