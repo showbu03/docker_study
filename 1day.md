@@ -38,7 +38,7 @@ Cahpter 1. CONTAINER TECHNOLOGY OVERVIEW
 > > > 리소스는 아껴쓰는게 아니라, 잘 써야됨!
 
 컨테이너의 목적
-> **빠른 배포
+> **빠른 배포**
 
 Cahpter 2. INSTALLING DOCKER
 ==========================================
