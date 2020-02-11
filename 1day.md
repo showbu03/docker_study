@@ -25,7 +25,7 @@ Cahpter 1. CONTAINER TECHNOLOGY OVERVIEW
 > >베어메탈 위에 Docker 구동
 > 컨테이너의 운영 수가 증가함에 따라 오케스트레이션 도구의 필요성이 증가됨
 > > 도커 스웜, 쿠버네티스 중요성 증가
-
+> > > 리소스는 아껴쓰는게 아니라, 잘 써야됨!
 
 
 Cahpter 2. INSTALLING DOCKER
