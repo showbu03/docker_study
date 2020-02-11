@@ -40,6 +40,17 @@ Cahpter 1. CONTAINER TECHNOLOGY OVERVIEW
 컨테이너의 목적
 > **빠른 배포**
 
+컨테이너의 역사
+	chroot : runc
+	cgroup : resource limit		
+	namespace : isolate
+		uts
+		network
+		mount
+		pid
+		user
+		ipc
+
 Cahpter 2. INSTALLING DOCKER
 ==========================================
 docs.docker.com
